@@ -20,7 +20,7 @@ Commands:
 ==================================================
 ");
 
-			// Start simulation
+			// Start Simulation
 			simulation = new Simulation();
 
 			// Input commands
