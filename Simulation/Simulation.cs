@@ -5,7 +5,7 @@ namespace Simulation
 {
 	public class Simulation
 	{
-		public int number; // Main variable
+		public int number; // Main variable 123
 
 
 		/* States of simulation */
