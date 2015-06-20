@@ -8,7 +8,7 @@ namespace Simulation
 		public int number; // Main variable
 
 
-		/* States of The Simulation */
+		/* States of simulation */
 		private enum State
 		{
 			Running, // Running state
